@@ -1,4 +1,4 @@
-module github.com/hellofresh/stats-go
+module github.com/ArieDeha/stats-go
 
 go 1.14
 
